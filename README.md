@@ -4,19 +4,24 @@ Zeyu Li
 
 Mar.1, 2017
 
+-----------
+
+
 **For Joey**
 
-1. Please install BeautifulSoup and other package if needed on server.
+1. Please install `BeautifulSoup` and other package if needed on server.
 
-2. Please rename the xlsx file to "data.xlsx"
+2. Please rename the xlsx file to `"data.xlsx"`
 
-3. Please run "abstract_extract.py". Don't run "jcrawler.py", that is an unsuccessful try.
+3. Please run `"abstract_extract.py"`. Don't run `"jcrawler.py"`, that is an unsuccessful try.
 
 4. Please do other modifications if needed. I did not consider compatibility, heiheihei.
 
 5. Enjoy!
 
-Zeyu
+---
+
+
 
 
 This is for Joey's project. It's function is as follows:
